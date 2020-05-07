@@ -8,7 +8,7 @@ public class UserController  {
 
     @RequestMapping("/findUserName")
     public String findUserName(){
-        return  "我跟新了";
+        return  "我跟新了.......";
     }
 
 }
